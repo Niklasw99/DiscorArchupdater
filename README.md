@@ -5,3 +5,7 @@ extract it,
 remove a .desktop file that allready exists.
 replace the old files for discord. in the opt dir.
 That's it.
+
+
+
+**git clone https://github.com/Niklasw99/DiscorArchupdater.git ; sh ./DiscorArchupdater/update.sh**
