@@ -1,4 +1,4 @@
-# DiscorArchUpdater
+# DiscordArchUpdater
 just a simple updater for Discord installed via the Official Arch Repo, 
 it will download the tar.gz fomr Discord's website,
 extract it, 
