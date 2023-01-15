@@ -11,6 +11,6 @@ That's it.
 **git clone https://github.com/Niklasw99/DiscorArchupdater.git ; sh ./DiscorArchupdater/update.sh**
 
 
-Automatic Version selection
-
+Automatic Version selection`
+```
 **git clone https://github.com/Niklasw99/DiscorArchupdater.git ; cd DiscorArchupdater ; sh AutoVersionUpdate.sh**
