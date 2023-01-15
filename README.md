@@ -9,3 +9,7 @@ That's it.
 
 
 **git clone https://github.com/Niklasw99/DiscorArchupdater.git ; sh ./DiscorArchupdater/update.sh**
+
+
+Automatic Version selection
+****git clone https://github.com/Niklasw99/DiscorArchupdater.git ; sh ./DiscorArchupdater/AutoVersionUpdate.sh**
