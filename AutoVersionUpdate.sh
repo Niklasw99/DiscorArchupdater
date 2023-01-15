@@ -1,7 +1,6 @@
 #!/bin/bash
 version=$( cat version )
 
-
 getlink="https://dl.discordapp.net/apps/linux/0.0.${version}/discord-0.0.${version}.tar.gz"
 status_code=$(curl --write-out %{http_code} --silent --output /dev/null $getlink)
 
