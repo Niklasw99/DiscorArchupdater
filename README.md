@@ -14,6 +14,6 @@ git clone https://github.com/Niklasw99/DiscorArchupdater.git ; sh ./DiscorArchup
 ```
 
 
-Automatic Version selection
+Automatic Version selection and update
 ```
 git clone https://github.com/Niklasw99/DiscorArchupdater.git ; cd DiscorArchupdater ; sh AutoVersionUpdate.sh
