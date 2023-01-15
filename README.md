@@ -8,6 +8,7 @@ That's it.
 
 
 Manual version update, you can edit update.sh to select a specific version
+
 ```git clone https://github.com/Niklasw99/DiscorArchupdater.git ; sh ./DiscorArchupdater/update.sh```
 
 
