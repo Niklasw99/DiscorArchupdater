@@ -12,4 +12,5 @@ That's it.
 
 
 Automatic Version selection
-****git clone https://github.com/Niklasw99/DiscorArchupdater.git ; sh ./DiscorArchupdater/AutoVersionUpdate.sh**
+
+**git clone https://github.com/Niklasw99/DiscorArchupdater.git ; sh ./DiscorArchupdater/AutoVersionUpdate.sh**
