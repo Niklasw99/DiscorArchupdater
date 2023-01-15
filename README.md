@@ -7,10 +7,10 @@ replace the old files for discord. in the opt dir.
 That's it.
 
 
+Manual version update, you can edit update.sh to select a specific version
+```git clone https://github.com/Niklasw99/DiscorArchupdater.git ; sh ./DiscorArchupdater/update.sh```
 
-**git clone https://github.com/Niklasw99/DiscorArchupdater.git ; sh ./DiscorArchupdater/update.sh**
 
-
-Automatic Version selection`
+Automatic Version selection
 ```
 git clone https://github.com/Niklasw99/DiscorArchupdater.git ; cd DiscorArchupdater ; sh AutoVersionUpdate.sh
