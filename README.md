@@ -16,6 +16,10 @@ That's it.
 The Python Script is working just fine, use it as you may. 
 
 
+Automatic Working
+
+git clone https://github.com/Niklasw99/DiscorArchupdater.git ; cd DiscorArchupdater ; python newautoupdate.py
+
 Manual version update, you can edit update.sh to select a specific version
 
 ```
