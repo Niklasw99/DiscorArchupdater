@@ -1,4 +1,10 @@
 # DiscordArchUpdater
+
+ Currently Not working, for some reason it wont just get the HTTP response, but tries to download from the discord CDN, for some reason, 
+
+im looking into this. 
+
+
 just a simple updater for Discord installed via the Official Arch Repo, 
 it will download the tar.gz fomr Discord's website,
 extract it, 
