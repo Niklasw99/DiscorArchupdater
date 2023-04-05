@@ -13,6 +13,9 @@ replace the old files for discord. in the opt dir.
 That's it.
 
 
+The Python Script is working just fine, use it as you may. 
+
+
 Manual version update, you can edit update.sh to select a specific version
 
 ```
