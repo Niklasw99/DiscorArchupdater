@@ -26,7 +26,3 @@ while statuscode == 200:
     else:
         discorversion = int(discorversion) + 1
         discorversionstr = str(discorversion)
-
-
-
-
